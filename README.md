@@ -5,4 +5,4 @@ Each branch represents a different frontend interface.
 
 ## Available Frontend Projects (by branch)
 
-- `coffee-main-page`: Main page interface for a coffee shop
+- `coffee-homepage`: Main page interface for a coffee shop
